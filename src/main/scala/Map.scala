@@ -50,7 +50,7 @@ object MapExt {
       }
     }
 
-    (2) which ideally should compile to
+    (2) which ideally should expand to
 
     object X {
       val m = Map(1 -> "a", 2 -> "b")
