@@ -1,8 +1,8 @@
-organization := "org.scalamacros"
+organization := "com.jteigen.macaroon"
+
+name := "patternmatch-map"
 
 version := "1.0-SNAPSHOT"
-
-// scalacOptions ++= Seq("-Ymacro-debug-lite")
 
 scalaVersion := "2.11.0-SNAPSHOT"
 
